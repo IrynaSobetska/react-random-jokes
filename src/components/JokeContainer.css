@@ -1,0 +1,29 @@
+.title {
+  font-size: 30px;
+  background: #5bc0eb;
+}
+
+h1 {
+  margin: 30px;
+}
+
+.bo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.btn-joke {
+  margin: 50px;
+
+  background: #e7e7e7;
+  color: #073d5f;
+  font-size: 30px;
+  width: 300px;
+}
+
+.btn-joke:hover {
+  cursor: pointer;
+  border-color: #073d5f;
+  border-width: 1px;
+}
